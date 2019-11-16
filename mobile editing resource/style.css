@@ -1,0 +1,191 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color: #fff;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	margin: 0px;
+	padding: 0px;
+	border; 0px;
+}
+h1 {
+	
+	float: left;
+	padding-left: 5px;
+}
+header{
+	display: block;
+	background-color: #4B4084;
+	overflow: hidden;
+	color: #fff;
+}
+img {
+	float: left;
+	display: block;
+	
+}
+nav {
+	display: block;
+	float: left;
+	color: #fff;
+	margin-top: 30px;
+	margin-left: 20px;
+}
+content {
+	color: #00A9E0;
+}
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background-color: #4B4084;
+	color: #fff;
+	text-align: left;
+}
+.post {
+	float: left;
+	background-color: #F1F9FF;
+	width: 390px;
+	padding-top: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 433px;
+	margin-left: 20px;
+	margin-right: 20px;
+	color: #00A9E0;
+}
+.latestpost {
+	width: 1360px;
+	background-color: #fff;
+	height: 749px;
+}
+.apps {
+	background-color: #F1F9FF;
+	width: 500px;
+	height: 1174px;
+	float: right;
+}
+.apppost {
+	width: 340px;
+	height: 310px;
+	float: right;
+	margin-right: 75px;
+	margin-top: 40px;
+}
+.recentposts {
+	width: 700px;
+	height: 50px;
+	background-color: #fff;
+	color: #F5B224;
+	font-size: 10px;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+	display:inline;
+}
+.button{
+	border-style: solid;
+	border-width: 2px;
+	color: #00A9E0;
+	float: left;
+	width: 100px;
+	margin-right: 300px;
+	margin-left: 50px;
+	padding-left: 10px;
+	margin-top: 50px;
+	background-color: #fff;
+	border-color: #B7EBFC;
+}
+.latesttext {
+	padding-top: 250px;
+	float:left;
+	margin-left: 50px
+		
+}
+.logo {
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	margin-right: 10px;
+}
+p {
+	padding-left: 5px;
+}
+.posttext {
+	padding-top: 30px;
+	float: left;
+}
+.row2 {
+	float: left;
+	margin-top: 50px;
+	margin-left: 100px;
+	justify-content: center;
+	flex-direction: row;
+}
+.row1 {
+	float: left;
+	margin-left: 100px;
+	justify-content: center;
+	flex-direction: row;
+	
+}
+.row3 {
+	float: left;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.flex {
+	float: flex;
+}
+
+label {
+	display: block;
+}
+.logotext {
+	width: 73px;
+	float: left;
+	font-size: 16px;
+	font-weight: bold;
+	
+	margin-right: 20px;
+	margin-top: 10px;
+	
+}
+.footrow1 {
+	width: 100px;
+	float: left;
+	
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 20px;
+	padding-left: 20px;
+}
+.footrow2 {
+	width: 100px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 50px;
+	margin-top: 20px;
+	
+	
+}
+.footrow3 {
+	float: left;
+	width: 231px;
+	margin-top: 40px;
+}
+label {
+	margin-top: 20px;
+}
+.footimg {
+	float: left;
+	margin-top: 15px;
+}
+a.linkpage {
+	color: #00A9E0;
+	font-weight: bold;
+}
+	
+	
