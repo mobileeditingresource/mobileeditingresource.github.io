@@ -5,7 +5,7 @@ body {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	margin: 0px;
 	padding: 0px;
-	border; 0px;
+	border: 0px;
 }
 h1 {
 	
@@ -65,6 +65,7 @@ footer {
 	width: 500px;
 	height: 1174px;
 	float: right;
+	display: block;
 }
 .apppost {
 	width: 340px;
@@ -138,6 +139,7 @@ p {
 
 .flex {
 	float: flex;
+	width: 1100px;
 }
 
 label {
