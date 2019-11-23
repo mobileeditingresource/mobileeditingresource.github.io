@@ -1,4 +1,4 @@
-@charset "utf-8";
+@charset "UTF-8";
 /* CSS Document */
 body {
 	background-color: #fff;
@@ -40,32 +40,8 @@ a.linkpage {
 	font-weight: bold;
 	margin-top: 40px;
 	text-shadow: 2px 2px 4px #4B4084;
-	
-}
-.post1 {
-	width: 340px;
-	height: 420px;
-	background-image: url("./imagess/bgpostadobe.jpg");
-	margin-top: 30px;
-	margin-left: 30px;
-	margin-right: 15px;
-}
-.post2 {
-	width: 340px;
-	height: 420px;
-	background-image: url("./imagess/bgpostvs.png");
-	margin-top: 30px;
-	margin-left: 15px;
-	margin-right: 15px;
-}
-.postgroups {
-	float: flex;
-	display: flex;
-}
-p {
-	color: #fff;
-	text-shadow: 2px 2px 4px #4B4084;
 }
 a:hover {
 	color: orange;
 }
+	

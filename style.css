@@ -187,5 +187,8 @@ a.linkpage {
 	color: #00A9E0;
 	font-weight: bold;
 }
+a:hover {
+	color: orange;
+}
 	
 	
