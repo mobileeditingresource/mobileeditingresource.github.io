@@ -122,19 +122,20 @@ p {
 	margin-top: 50px;
 	margin-left: 100px;
 	justify-content: center;
-	flex-direction: row;
+	flex-direction: column;
 }
 .row1 {
 	float: left;
 	margin-left: 100px;
 	justify-content: center;
-	flex-direction: row;
+	flex-direction: column;
 	
 }
 .row3 {
 	float: left;
 	margin-left: 100px;
 	margin-top: 50px;
+	flex-direction: column;
 }
 
 .flex {
